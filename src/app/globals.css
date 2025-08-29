@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+body {
+  background: #000;
+  background-image: radial-gradient(
+    circle at top center,
+    rgba(0, 255, 200, 0.25),
+    rgba(0, 0, 0, 0) 70%
+  );
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top center, bottom center;
+  font-family: var(--font-outfit), sans-serif;
+}
+
+/* .navbar {
+  backdrop-filter: blur(30px);
+} */
