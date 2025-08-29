@@ -13,3 +13,9 @@ body {
   background-position: top center, bottom center;
   font-family: var(--font-outfit), sans-serif;
 }
+
+@media only screen and (max-width: 676px) {
+  .header .positional_paragraph {
+    display: none;
+  }
+}

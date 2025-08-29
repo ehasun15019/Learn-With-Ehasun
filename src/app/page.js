@@ -7,7 +7,6 @@ export default function Home() {
     <div className="container mx-auto">
       <Header />
       <About />
-      <Cards />
     </div>
   );
 }
