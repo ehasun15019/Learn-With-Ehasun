@@ -13,7 +13,3 @@ body {
   background-position: top center, bottom center;
   font-family: var(--font-outfit), sans-serif;
 }
-
-/* .navbar {
-  backdrop-filter: blur(30px);
-} */
