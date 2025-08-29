@@ -15,7 +15,7 @@ const Header = () => {
 
       <p className="text-[1.2rem] pt-3 text-gray-400 text-center">
         You are starting a long <span className="text-[#24cfa6]">journey </span>
-        with programming
+        with programming.
       </p>
 
       <p className="w-[180px] text-[0.8rem] relative right-[-387px] positional_paragraph">
