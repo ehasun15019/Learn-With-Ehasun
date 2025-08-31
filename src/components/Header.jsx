@@ -27,6 +27,13 @@ const Header = () => {
       <button className="btn btn-success px-10 rounded-lg py-6 text-[1.3rem]">
         Check Out The Website
       </button>
+
+      <div className="w-[380px] mt-3">
+        <marquee behavior="" direction="">
+          বাংলা ভাষায় প্রগ্রামিং শিখুন খুব সহজেই। প্রগ্রামিং সম্পর্কিত নোটগুলা
+          পেতে আমার site টা প্রতিনিয়ত visit করুন
+        </marquee>
+      </div>
     </div>
   );
 };
