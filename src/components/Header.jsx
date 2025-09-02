@@ -24,11 +24,13 @@ const Header = () => {
         শিখতে চলেছ
       </p>
 
-      <button className="btn btn-success px-10 rounded-lg py-6 text-[1.3rem]">
-        Check Out The Website
-      </button>
+      <div className="mt-10 md:mt-0">
+        <button className="btn btn-success px-10 rounded-lg py-6 md:text-[1.3rem] sm:text-[0.9rem]">
+          Check Out The Website
+        </button>
+      </div>
 
-      <div className="w-[380px] mt-3">
+      <div className="w-full max-w-[380px] mt-3 px-5 md:px-0">
         <marquee behavior="" direction="">
           বাংলা ভাষায় প্রগ্রামিং শিখুন খুব সহজেই। প্রগ্রামিং সম্পর্কিত নোটগুলা
           পেতে আমার site টা প্রতিনিয়ত visit করুন
