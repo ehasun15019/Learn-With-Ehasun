@@ -4,7 +4,7 @@ import { ArticlesData } from "@/assets/assets";
 
 const TabsArticle = () => {
   return (
-    <div className="">
+    <div className="py-6">
       <TabsDesign data={ArticlesData} />
     </div>
   );
