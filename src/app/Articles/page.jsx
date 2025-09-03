@@ -11,7 +11,7 @@ export default function Articles() {
       <TabsArticle />
 
       {/* test */}
-      <p>
+      <p className="text-white">
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sequi facilis
         asperiores doloribus sint suscipit quo inventore! Nesciunt, ab natus!
         Perferendis consectetur velit fugiat labore quos dolorum. Porro
