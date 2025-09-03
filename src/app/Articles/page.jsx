@@ -9,6 +9,9 @@ export default function Articles() {
 
       {/* Tabs */}
       <TabsArticle />
+
+      {/* Testing  */}
+      <p>Test</p>
     </div>
   );
 }
