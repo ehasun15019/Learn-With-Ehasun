@@ -1,6 +1,6 @@
 import React from "react";
 import TabsDesign from "./TabsDesign";
-import { ArticlesData } from "@/assets/assets";
+import { ArticlesData } from "@/assets/articleAssets";
 
 const TabsArticle = () => {
   return (
