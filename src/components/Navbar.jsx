@@ -33,7 +33,7 @@ const Navbar = () => {
       >
         <div className="navbar-start">
           <a className="text-xl flex" href="/">
-            <Image src={assets.logo} alt="logo" className="w-10" />
+            <Image src={assets.logo} alt="logo" className="w-8" />
             <p className="text-[0.8rem] ps-3 text-gray-400">
               Learn
               <br />
