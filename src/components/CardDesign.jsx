@@ -7,7 +7,7 @@ const CardDesign = ({ img, title, description, link }) => {
       <div className="card-container w-75 md:w-98">
         <div className="card bg-base-300 shadow-sm rounded-lg">
           <figure>
-            <Image src={img} alt="Shoes" className="overflow-hidden" />
+            <Image src={img} alt={title} className="overflow-hidden" />
           </figure>
 
           <div className="card-body">

@@ -1,6 +1,6 @@
-import { cards } from "@/assets/cardAssets";
 import React from "react";
 import CardDesign from "./CardDesign";
+import { cards } from "@/assets/videoAssets";
 
 const CardSection = () => {
   return (
